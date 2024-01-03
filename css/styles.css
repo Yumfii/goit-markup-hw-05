@@ -690,7 +690,6 @@ img {
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
-  color: rgba(46, 47, 66, 0.4);
   border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 4px;
   background-color: transparent;
@@ -698,6 +697,10 @@ img {
   outline: transparent;
   resize: none;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.mw-form-textarea::placeholder {
+  color: rgba(46, 47, 66, 0.4);
 }
 
 .mw-form-textarea:focus {
@@ -751,8 +754,8 @@ img {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.mw-form-privacy-checkbox:checked {
-  background-color: #404bbf;
-  border: none;
-  fill: #F4F4FD;;
+.mw-form-button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
