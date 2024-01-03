@@ -30,7 +30,7 @@
     <g clip-path="url(#a)"><path d="M8 .806 7.194 0 4 3.194.806 0 0 .806 3.194 4 0 7.194.806 8 4 4.806 7.194 8 8 7.194 4.806 4 8 .806Z" fill="#2E2F42"/></g><defs><clipPath id="a"><path fill="#fff" d="M0 0h8v8H0z"/></clipPath></defs>
   </symbol>
   <symbol id="person">
-    <g clip-path="url(#a)"><path d="M9 9a3 3 0 1 0 0-6 3 3 0 1 0 0 6Zm0 1.5c-2.003 0-6 1.005-6 3v.75c0 .412.337.75.75.75h10.5c.412 0 .75-.338.75-.75v-.75c0-1.995-3.998-3-6-3Z" fill="#4D5AE5"/></g><defs><clipPath id="a"><path fill="#fff" d="M0 0h18v18H0z"/></clipPath></defs>
+    <g clip-path="url(#a)"><path d="M9 9a3 3 0 1 0 0-6 3 3 0 1 0 0 6Zm0 1.5c-2.003 0-6 1.005-6 3v.75c0 .412.337.75.75.75h10.5c.412 0 .75-.338.75-.75v-.75c0-1.995-3.998-3-6-3Z"/></g><defs><clipPath id="a"><path fill="#fff" d="M0 0h18v18H0z"/></clipPath></defs>
   </symbol>
   <symbol id="email">
     <g clip-path="url(#a)"><path d="M15 6H3c-.825 0-1.492.675-1.492 1.5l-.008 9c0 .825.675 1.5 1.5 1.5h12c.825 0 1.5-.675 1.5-1.5v-9c0-.825-.675-1.5-1.5-1.5Zm-.3 3.188-5.302 3.314a.759.759 0 0 1-.796 0L3.3 9.188a.637.637 0 1 1 .675-1.08L9 11.25l5.025-3.143a.637.637 0 1 1 .675 1.08Z" fill="#2E2F42"/></g><defs><clipPath id="a"><path fill="#fff" d="M0 0h18v24H0z"/></clipPath></defs>
