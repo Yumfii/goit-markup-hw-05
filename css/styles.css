@@ -630,6 +630,10 @@ img {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.modal-window-button:hover .modal-window-button-icon {
+  fill: #ffffff;
+}
+
 .modal-window-text {
   font-weight: 500;
   font-size: 16px;
@@ -758,6 +762,7 @@ img {
   border-radius: 4px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  margin: auto;
 }
 
 .mw-form-privacy-input:checked ~ .mw-form-privacy-label > .mw-form-privacy-label-span {
